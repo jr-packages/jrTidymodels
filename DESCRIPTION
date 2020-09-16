@@ -1,0 +1,33 @@
+Type: Package
+Package: jrTidymodels
+Title: Jumping Rivers: Machine Learning with Tidymodels
+Version: 0.0.1
+Authors@R: 
+    person(given = "Jumping",
+           family = "Rivers",
+           role = c("aut", "cre"),
+           email = "info@jumpingrivers.com")
+Description: Practicals and data sets for the Machine Learning
+    with Tidymodels course run by Jumping Rivers.
+License: GPL-3
+URL: https://github.com/jr-packages/jrTidymodels
+Depends:
+    R (>= 3.5.0)
+Imports:
+    dplyr,
+    ggplot2,
+    ISLR,
+    parsnip,
+    recipes,
+    rsample,
+    tidyr,
+    yardstick
+Suggests:
+    knitr,
+    lintr,
+    rmarkdown,
+    tufte
+VignetteBuilder: 
+    knitr
+Encoding: UTF-8
+RoxygenNote: 7.1.1
