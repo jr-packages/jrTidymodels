@@ -1,3 +1,6 @@
+# jrTidymodels 0.0.4 _2020-09-17_
+  * Add caret pkg to Imports
+
 # jrTidymodels 0.0.3 _2020-09-17_
   * Add mixture_example data
   * Add boundary_plot.R
