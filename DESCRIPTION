@@ -18,7 +18,6 @@ Imports:
     dplyr,
     e1071,
     ggplot2,
-    kknn,
     ISLR,
     kknn,
     parsnip,
