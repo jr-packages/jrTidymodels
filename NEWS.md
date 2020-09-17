@@ -2,6 +2,7 @@
   * Add mixture_example data
   * Add boundary_plot.R
   * Add mixture_example.R
+  * Update Dockerfile
 
 # jrTidymodels 0.0.2 _2020-09-16_
   * Add tibble pkg to Imports
