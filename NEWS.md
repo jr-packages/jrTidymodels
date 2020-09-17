@@ -1,3 +1,6 @@
+# jrTidymodels 0.0.6 _2020-09-17_
+  * Add kknn pkg to Suggests
+
 # jrTidymodels 0.0.5 _2020-09-17_
   * Add e1071 pkg to Suggests
 
