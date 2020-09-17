@@ -1,3 +1,6 @@
+# jrTidymodels 0.0.8 _2020-09-17_
+  * Add kknn pkg to Suggests (annoying CI)
+
 # jrTidymodels 0.0.7 _2020-09-17_
   * Add kknn + e1071 pkgs to Imports
 
