@@ -1,7 +1,7 @@
 Type: Package
 Package: jrTidymodels
 Title: Jumping Rivers: Machine Learning with Tidymodels
-Version: 0.0.6
+Version: 0.0.7
 Authors@R: 
     person(given = "Jumping",
            family = "Rivers",
@@ -16,7 +16,9 @@ Depends:
 Imports:
     caret,
     dplyr,
+    e1071,
     ggplot2,
+    kknn,
     ISLR,
     kknn,
     parsnip,
@@ -26,8 +28,6 @@ Imports:
     tidyr,
     yardstick
 Suggests:
-    e1071,
-    kknn,
     knitr,
     lintr,
     rmarkdown,
