@@ -4,8 +4,11 @@
 \name{advertising}
 \alias{advertising}
 \title{The advertising data set}
+\usage{
+data(advertising)
+}
 \value{
-A data.frame
+A data frame
 }
 \description{
 200 measurements of advertising expenditure in each of
