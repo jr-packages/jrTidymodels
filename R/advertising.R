@@ -5,7 +5,8 @@
 #' of the product being advertised.
 #' @name advertising
 #' @docType data
-#' @return A data.frame
+#' @usage data(advertising)
+#' @return A data frame
 #' @examples
 #' data(advertising)
 NULL
