@@ -1,5 +1,15 @@
 language: r
+sudo: false
 cache: packages
+
+addons:
+  apt:
+    sources:
+      - sourceline: 'ppa:ubuntugis/ubuntugis-unstable'
+    packages:
+      - libglpk-dev
+      - libgmp3-dev
+      - libxml2-dev
 
 env:
   global:
