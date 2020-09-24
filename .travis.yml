@@ -1,5 +1,11 @@
 language: r
+sudo: false
 cache: packages
+
+apt_packages:
+  - libxml2-dev
+  - libgmp3-dev
+  - libglpk-dev
 
 env:
   global:

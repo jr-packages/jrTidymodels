@@ -1,3 +1,7 @@
+# jrTidymodels 0.0.10 _2020-09-22_
+  * Convert advertising data from data frame to tibble
+  * Add system packages
+
 # jrTidymodels 0.0.9 _2020-09-17_
   * Add kknn pkg to Imports (more annoying CI)
 
