@@ -3,6 +3,7 @@
   * Add system packages
   * Covert Default package to a tibble + add default_numeric row
   * Add new Default data in \data and document in default.R
+  * Add code to generate new Default data to \inst
 
 # jrTidymodels 0.0.* _2020-09-17_
   * Fix kknn pkg problem
