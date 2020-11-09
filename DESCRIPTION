@@ -14,17 +14,26 @@ URL: https://github.com/jr-packages/jrTidymodels
 Depends:
     R (>= 3.5.0)
 Imports:
+    baguette,
+    broom,
     caret,
+    dials,
+    discrim,
     dplyr,
     e1071,
     ggplot2,
     ISLR,
     kknn,
+    palmerpenguins,
     parsnip,
+    ranger,
     recipes,
     rsample,
     tibble,
     tidyr,
+    tune,
+    workflows,
+    vip,
     yardstick
 Suggests:
     knitr,
