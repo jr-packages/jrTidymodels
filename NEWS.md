@@ -1,3 +1,6 @@
+# jrTidymodels 0.1.1 _2020-11-09_
+  * Add several dependencies for jrTidymodels2_notes
+
 # jrTidymodels 0.1.0 _2020-09-30_
   * Convert advertising data from data frame to tibble
   * Add system packages
