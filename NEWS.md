@@ -1,4 +1,4 @@
-# jrTidymodels 0.1.2 _2020-11-10_
+# jrTidymodels 0.1.3 _2020-11-10_
   * Add india and gapminder data
 
 # jrTidymodels 0.1.1 _2020-11-09_
