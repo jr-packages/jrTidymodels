@@ -1,7 +1,7 @@
 Type: Package
 Package: jrTidymodels
 Title: Jumping Rivers: Machine Learning with Tidymodels
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     person(given = "Jumping",
            family = "Rivers",

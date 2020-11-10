@@ -1,3 +1,6 @@
+# jrTidymodels 0.1.2 _2020-11-10_
+  * Add india and gapminder data
+
 # jrTidymodels 0.1.1 _2020-11-09_
   * Add several dependencies for jrTidymodels2_notes
 
@@ -8,7 +11,7 @@
   * Add new Default data in \data and document in default.R
   * Add code to generate new Default data to \inst
 
-# jrTidymodels 0.0.* _2020-09-17_
+# jrTidymodels 0.0.* _2020-09-17_ 
   * Fix kknn pkg problem
   * Add e1071 pkg to Suggests
   * Add caret pkg to Imports
