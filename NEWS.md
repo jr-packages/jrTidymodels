@@ -1,5 +1,6 @@
 # jrTidymodels 0.1.4 _2020-11-10_
   * Add beer data
+  * Add full india data
 
 # jrTidymodels 0.1.3 _2020-11-10_
   * Add india and gapminder data
