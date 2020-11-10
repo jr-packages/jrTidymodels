@@ -96,3 +96,15 @@ NULL
 #' @examples
 #' data(beer)
 NULL
+
+#' Beer test data
+#'
+#' Alcohol percentage, colour rating for
+#' 5 stouts and ales.
+#' @name beer_test
+#' @docType data
+#' @usage data(beer_test)
+#' @return A tibble
+#' @examples
+#' data(beer_test)
+NULL
