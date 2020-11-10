@@ -72,3 +72,27 @@ NULL
 #' @examples
 #' data(india_test)
 NULL
+
+#' Beer classification data
+#'
+#' Alcohol percentage, colour rating for
+#' stouts, IPAs and ales.
+#' @name beer_full
+#' @docType data
+#' @usage data(beer_full)
+#' @return A tibble
+#' @examples
+#' data(beer_full)
+NULL
+
+#' Beer classification data
+#'
+#' Alcohol percentage, colour rating for
+#' stouts and ales.
+#' @name beer
+#' @docType data
+#' @usage data(beer)
+#' @return A tibble
+#' @examples
+#' data(beer)
+NULL
