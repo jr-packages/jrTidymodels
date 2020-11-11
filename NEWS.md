@@ -1,3 +1,8 @@
+# jrTidymodels 0.1.5 _2020-11-11_
+  * Add penguin data
+  * Add lifeExp data
+  * Add car data
+
 # jrTidymodels 0.1.4 _2020-11-10_
   * Add beer data
   * Add full india data
