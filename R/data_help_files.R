@@ -47,6 +47,19 @@ NULL
 #' data(gapminder)
 NULL
 
+#' Full gapminder data for india
+#'
+#' Measurements lifeExp, pop and gdpPercap for India
+#' ranging from 1950 to 2019.
+#' @name india_full
+#' @source https://www.gapminder.org/
+#' @docType data
+#' @usage data(india_full)
+#' @return A tibble
+#' @examples
+#' data(india_full)
+NULL
+
 #' Gapminder data for india
 #'
 #' Measurements lifeExp, pop and gdpPercap for India
@@ -71,4 +84,40 @@ NULL
 #' @return A tibble
 #' @examples
 #' data(india_test)
+NULL
+
+#' Beer classification data
+#'
+#' Alcohol percentage, colour rating for
+#' stouts, IPAs and ales.
+#' @name beer_full
+#' @docType data
+#' @usage data(beer_full)
+#' @return A tibble
+#' @examples
+#' data(beer_full)
+NULL
+
+#' Beer classification data
+#'
+#' Alcohol percentage, colour rating for
+#' stouts and ales.
+#' @name beer
+#' @docType data
+#' @usage data(beer)
+#' @return A tibble
+#' @examples
+#' data(beer)
+NULL
+
+#' Beer test data
+#'
+#' Alcohol percentage, colour rating for
+#' 5 stouts and ales.
+#' @name beer_test
+#' @docType data
+#' @usage data(beer_test)
+#' @return A tibble
+#' @examples
+#' data(beer_test)
 NULL
