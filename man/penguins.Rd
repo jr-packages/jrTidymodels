@@ -4,6 +4,9 @@
 \name{penguins}
 \alias{penguins}
 \title{Trimmed penguins data}
+\source{
+The palmer penguins package
+}
 \usage{
 data(penguins)
 }

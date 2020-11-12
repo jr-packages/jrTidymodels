@@ -127,6 +127,7 @@ NULL
 #' Life Expectancy data for countries around the world
 #' @name lifeExp
 #' @docType data
+#' @source https://www.who.int/
 #' @usage data(lifeExp)
 #' @return A tibble
 #' @examples
@@ -138,6 +139,7 @@ NULL
 #' Price data for different types of cars
 #' @name car
 #' @docType data
+#' @source https://www.kaggle.com/hellbuoy/car-price-prediction
 #' @usage data(car)
 #' @return A tibble
 #' @examples
@@ -148,6 +150,7 @@ NULL
 #'
 #' Trimmed penguins data
 #' @name penguins
+#' @source The palmer penguins package
 #' @docType data
 #' @usage data(penguins)
 #' @return A tibble

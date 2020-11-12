@@ -4,6 +4,9 @@
 \name{car}
 \alias{car}
 \title{Price data for different types of cars}
+\source{
+https://www.kaggle.com/hellbuoy/car-price-prediction
+}
 \usage{
 data(car)
 }
