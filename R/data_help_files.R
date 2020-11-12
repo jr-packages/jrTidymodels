@@ -121,3 +121,39 @@ NULL
 #' @examples
 #' data(beer_test)
 NULL
+
+#' Life Expectancy data for countries around the world
+#'
+#' Life Expectancy data for countries around the world
+#' @name lifeExp
+#' @docType data
+#' @source https://www.who.int/
+#' @usage data(lifeExp)
+#' @return A tibble
+#' @examples
+#' data(lifeExp)
+NULL
+
+#' Price data for different types of cars
+#'
+#' Price data for different types of cars
+#' @name car
+#' @docType data
+#' @source https://www.kaggle.com/hellbuoy/car-price-prediction
+#' @usage data(car)
+#' @return A tibble
+#' @examples
+#' data(car)
+NULL
+
+#' Trimmed penguins data
+#'
+#' Trimmed penguins data
+#' @name penguins
+#' @source The palmer penguins package
+#' @docType data
+#' @usage data(penguins)
+#' @return A tibble
+#' @examples
+#' data(penguins)
+NULL
